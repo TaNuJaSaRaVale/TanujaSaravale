@@ -35,7 +35,7 @@
 🔹 **Departmental Clubs Website (ASTRA)**  
 - Responsive website using React & Tailwind CSS  
 - Improved student engagement & UI consistency  
-- [View Project](#)
+- [View Project](https://astra-club.vercel.app/)
 
 🔹 **Expense Tracker (Node.js)**  
 - Full-stack expense management app  
