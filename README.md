@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/tanuja-saravale/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/TaNuJaSaRaVale">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
   <a href="https://portfolio-kohl-seven-97.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white"/>
   </a>
@@ -77,8 +74,8 @@ I’m a **2nd-year Artificial Intelligence & Machine Learning undergraduate** fo
 - Expense management system built with **Node.js**
 - **Firebase authentication & backend**
 - Real-time data handling and user-based tracking
+- [**view Live**](https://expense-tracker-1869c.web.app/)
 
-🟣 *Project link coming soon*
 
 ---
 ## 📊 GitHub Analytics
