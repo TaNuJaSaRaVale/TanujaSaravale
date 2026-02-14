@@ -26,29 +26,52 @@ I’m a **2nd-year Artificial Intelligence & Machine Learning undergraduate** fo
 
 ## 🧰 Tech Stack
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript&size=30" />
-</p>
+<table>
+  <tr>
+    <td><b>💻 Programming</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp,python,javascript&size=20" />
+    </td>
+  </tr>
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs&size=30" />
-</p>
+  <tr>
+    <td><b>🌐 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&size=20" />
+    </td>
+  </tr>
 
-### 🤖 AI / Machine Learning
-<p>
-  <img height="32" src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat"/>
-  <img height="32" src="https://img.shields.io/badge/NLP-4B0082?style=flat"/>
-  <img height="32" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-</p>
+  <tr>
+    <td><b>🛠 Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&size=20" />
+    </td>
+  </tr>
 
-### 🛠 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman&size=30" />
-</p>
+  <tr>
+    <td><b>🗄 Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase&size=20" />
+    </td>
+  </tr>
 
+  <tr>
+    <td><b>🤖 AI / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python&size=20" />
+      <img height="20" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+      <img height="20" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+      <img height="20" src="https://img.shields.io/badge/NLP-4B0082?style=flat"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>⚙ Tools & Deployment</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,cloudinary&size=20" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
@@ -75,24 +98,6 @@ I’m a **2nd-year Artificial Intelligence & Machine Learning undergraduate** fo
 - **Firebase authentication & backend**
 - Real-time data handling and user-based tracking
 - [**view Live**](https://expense-tracker-1869c.web.app/)
-
-
----
-## 📊 GitHub Analytics
-
- 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
- 📈 Contribution Activity
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TaNuJaSaRaVale&theme=tokyo-night"
-  width="100%"
-/>
-
 
 
 ---
