@@ -24,55 +24,6 @@ I’m a **2nd-year Artificial Intelligence & Machine Learning undergraduate** fo
 
 ---
 
-## 🧰 Tech Stack
-
-<table>
-  <tr>
-    <td><b>💻 Programming</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cpp,python,javascript&size=20" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🌐 Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&size=20" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🛠 Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&size=20" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🗄 Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase&size=20" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🤖 AI / ML</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python&size=20" />
-      <img height="20" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-      <img height="20" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-      <img height="20" src="https://img.shields.io/badge/NLP-4B0082?style=flat"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>⚙ Tools & Deployment</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,cloudinary&size=20" />
-    </td>
-  </tr>
-</table>
----
 
 ## 🚀 Featured Projects
 
