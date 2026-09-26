@@ -1,58 +1,76 @@
-<h1 align="center">✨ Hi, I'm Tanuja Saravale</h1>
-<p align="center">
-  <b>B.Tech AIML Student • Aspiring AI & Software Engineer</b>
-</p>
+# Hi, I'm Tanuja Saravale 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanuja-saravale/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-kohl-seven-97.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+### AI/ML • Software Engineering • Building things that solve real problems
+
+I’m an **Artificial Intelligence & Machine Learning undergraduate** who enjoys turning ideas into working products.
+
+I like working at the intersection of **AI, software engineering, and problem solving** - from training ML models and building web applications to exploring scalable systems and developer tools.
+
+> **Learn deeply. Build consistently. Ship better.**
 
 ---
 
-## 👩‍💻 About Me
-I’m a **2nd-year Artificial Intelligence & Machine Learning undergraduate** focused on building **reliable AI solutions** and **clean, scalable software systems**.
+### 🧠 What I'm into
 
-- 🎓 Strong foundation in **AIML & Computer Science fundamentals**
-- 🧠 Competitive Programmer (**CodeChef ⭐⭐ | 400+ problems solved**)
-- 💡 Interests: **Machine Learning, Web Development, DSA**
-- 🌱 Currently learning **Advanced DSA, React, NLP**
+**Artificial Intelligence**
+Machine Learning • NLP • AI Systems
+
+**Software Engineering**
+Web Development • APIs • Backend Systems
+
+**Problem Solving**
+Data Structures & Algorithms • Competitive Programming
+
+**Currently exploring**
+• Docker • Kubernetes • AI Engineering
+
+---
+
+### 🚀 A few things I've built
+
+**📩 SMS Spam Classifier**
+An NLP-based spam detection system using TF-IDF and Naive Bayes, deployed with Streamlit.
+[Live Demo](https://sms-spam-classifier-hvxtqtteneeogotgmpb2od.streamlit.app/)
+
+**🏫 ASTRA - Departmental Clubs Platform**
+A responsive web platform designed to make departmental clubs and student activities easier to discover and manage.
+[Live Demo](https://astra-club.vercel.app/)
+
+**💸 Expense Tracker**
+A full-stack expense management application with authentication and real-time data handling.
+[Live Demo](https://expense-tracker-1869c.web.app/)
+
+---
+
+### 📊 Problem Solving
+
+I enjoy competitive programming as a way to improve my algorithmic thinking.
+
+**500+ DSA problems solved across:**
+**LeetCode:** 1668
+**Codeforces:** 1053
+**CodeChef:** 2★
+
+---
+
+### 🌱 What I'm working toward
+
+My long-term goal is to become a strong **AI Engineer** who can take an idea from:
+
+`Problem → Model → System → Deployment → Production`
+
+I'm particularly interested in building AI systems that are not just accurate, but **reliable, scalable, and useful**.
+
+---
+
+### 🔗 Find me here
+
+[LinkedIn](https://www.linkedin.com/in/tanuja-saravale/) •
+[Kaggle](https://www.kaggle.com/tanujasaravale) •
+[LeetCode](https://leetcode.com/u/saravaletanuja/) •
+[CodeChef](https://www.codechef.com/users/tanuja_00098) •
+[Codeforces](https://codeforces.com/profile/Tanuja_98)
 
 ---
 
 
-## 🚀 Featured Projects
-
-### 📩 SMS Spam Classifier
-- NLP-based classification using **TF-IDF + Naive Bayes**
-- Implemented full ML pipeline: preprocessing → training → inference
-- Deployed with **Streamlit**
-- [**view Live**](https://sms-spam-classifier-hvxtqtteneeogotgmpb2od.streamlit.app/)
-
----
-
-### 🏫 Departmental Clubs Website (ASTRA)
-- Built using **React & Tailwind CSS**
-- Clean, responsive UI with improved content structure
-- Designed to enhance student engagement
-- [**view Live**](https://astra-club.vercel.app/)
-
-
----
-
-### 💸 Expense Tracker (Full-Stack)
-- Expense management system built with **Node.js**
-- **Firebase authentication & backend**
-- Real-time data handling and user-based tracking
-- [**view Live**](https://expense-tracker-1869c.web.app/)
-
-
----
-
-<p align="center">
-  <i>Learning deeply. Building thoughtfully. Growing consistently.</i>
-</p>
