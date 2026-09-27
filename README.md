@@ -13,7 +13,7 @@ I like working at the intersection of **AI, software engineering, and problem so
 ### 🧠 What I'm into
 
 **Artificial Intelligence**
-Machine Learning • NLP • AI Systems
+Machine Learning  • AI Systems
 
 **Software Engineering**
 Web Development • APIs • Backend Systems
@@ -22,23 +22,24 @@ Web Development • APIs • Backend Systems
 Data Structures & Algorithms • Competitive Programming
 
 **Currently exploring**
-• Docker • Kubernetes • AI Engineering
+• Docker • AI Engineering
 
 ---
 
 ### 🚀 A few things I've built
+
+**🤖 Enterprise Agentic RAG**
+An agentic Retrieval-Augmented Generation system for enterprise IT documentation with confidence-aware retrieval, guardrails, and LLM-powered responses.
+[Live Demo](https://agentic-rag-streamlit.app/)
 
 **📩 SMS Spam Classifier**
 An NLP-based spam detection system using TF-IDF and Naive Bayes, deployed with Streamlit.
 [Live Demo](https://sms-spam-classifier-hvxtqtteneeogotgmpb2od.streamlit.app/)
 
 **🏫 ASTRA - Departmental Clubs Platform**
+
 A responsive web platform designed to make departmental clubs and student activities easier to discover and manage.
 [Live Demo](https://astra-club.vercel.app/)
-
-**💸 Expense Tracker**
-A full-stack expense management application with authentication and real-time data handling.
-[Live Demo](https://expense-tracker-1869c.web.app/)
 
 ---
 
