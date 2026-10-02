@@ -30,7 +30,7 @@ Data Structures & Algorithms • Competitive Programming
 
 **🤖 Enterprise Agentic RAG**
 An agentic Retrieval-Augmented Generation system for enterprise IT documentation with confidence-aware retrieval, guardrails, and LLM-powered responses.
-[Live Demo](https://agentic-rag-streamlit.app/)
+[Live Demo]([https://agentic-rag-d.streamlit.app/))
 
 **📩 SMS Spam Classifier**
 An NLP-based spam detection system using TF-IDF and Naive Bayes, deployed with Streamlit.
